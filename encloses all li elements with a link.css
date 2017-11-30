@@ -1,0 +1,15 @@
+#subcategories ul li {
+    float: left;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid;
+    padding: 10px;
+    width: 200px;
+    max-width: 23%;
+}
+#subcategories ul li .subcategory-image a {
+    display: block;
+    padding: 9px;
+    border: 1px solid #d6d4d4;
+    display: none;
+}
